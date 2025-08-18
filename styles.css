@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+body {
+    background-color: #DD6E42;
+    text-align: center;
+}
+
+header{
+    margin: 0 0 30px 0;
+    background-color: #DD6E42;
+}
+
+.top{}
+
+.top-heading, .greeting {
+    text-align: center;
+}
+
+.top-heading {
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}
+.greeting{}
+
+p{
+    margin-bottom: 20px;
+}
+
+.paragraphs{
+    background-color: #616163;
+    padding: 5px;
+}
+
+.inner{
+    background-color: #FEFEFF;
+}
+
+.recipe-links{}
+
+.sub-heading {
+    border-bottom: 3px solid #616163;
+}
